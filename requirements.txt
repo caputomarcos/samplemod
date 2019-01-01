@@ -1,0 +1,6 @@
+Automat==0.7.0
+boto3==1.9.71
+lvm2py==1.0
+networkx==2.2
+Rx==1.6.1
+matplotlib==3.0.2
